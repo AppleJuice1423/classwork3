@@ -1,0 +1,26 @@
+.head {
+    font-family: Arial;
+}
+.body{
+    background: linear-gradient(to bottom right, rgb(174, 209, 239), rgb(18, 110, 191));
+    font-family: Arial;
+}
+.menu li a:hover {
+    color: #1896FF;
+    }
+    .menu li a:active {
+    color: red;
+    }
+    .menu 
+    .new:after {
+    content: " new";
+    color: blue;
+    }
+.h1 {
+    font-size: 20px;
+}
+.table {
+    width: 150px;
+    height: 100px;
+    border: 2px black;
+}
